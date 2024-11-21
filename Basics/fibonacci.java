@@ -1,3 +1,12 @@
+// Input: User specifies the number of terms (x) in the Fibonacci series.
+// Logic:
+// First two terms are printed directly (a = 0, b = 1).
+// Remaining terms are calculated using the formula c = a + b.
+// Update a and b for the next term.
+// Output: A single line containing the Fibonacci series up to x terms.
+// Edge cases:
+// If x = 0, no terms are printed.
+// If x = 1, only the first term (0) is printed.
 package Basic;
 
 import java.util.*;
