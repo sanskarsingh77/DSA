@@ -1,3 +1,20 @@
+// Input:
+// The user enters the number of terms 'x' they want in the Fibonacci series.
+
+// Output:
+// The Fibonacci series up to 'x' terms is printed.
+
+// Loop:
+// Iterates from 1 to x, calling fib(i) for each term and printing it.
+
+// Fibonacci Series Logic (Recursive Approach):
+
+// Base Cases:
+// If n <= 1, return n (either 0 or 1 for the first two terms).
+
+// Recursive Step:
+// Return fib(n-1) + fib(n-2) for all other cases.
+
 import java.util.Scanner;
 public class Fibonacci 
 {
