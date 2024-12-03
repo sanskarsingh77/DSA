@@ -7,6 +7,7 @@
 // It then places key in its correct position within the sorted portion.
 // Output:
 
+
 // After sorting, the program prints the sorted array.
 public class Insertion 
 {
