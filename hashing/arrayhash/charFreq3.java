@@ -1,3 +1,18 @@
+// Initialize Data:
+
+// A frequency array freq[52] stores letter counts:
+// Indices 0-25: Lowercase letters ('a' to 'z').
+// Indices 26-51: Uppercase letters ('A' to 'Z').
+// Count Letters:
+
+// Each character ch in the string is checked:
+// If lowercase (ch >= 97), update freq[ch - 97].
+// If uppercase, update freq[ch - 65 + 26].
+// Print Results:
+
+// Print non-zero counts from freq:
+// Lowercase: (char)(i + 97) for indices 0-25.
+// Uppercase: (char)(i + 65 - 26) for indices 26-51.
 public class CharFreq3
 {
     public static void main(String[] args) 
