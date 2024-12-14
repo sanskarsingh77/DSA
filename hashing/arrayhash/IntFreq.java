@@ -1,3 +1,15 @@
+// Initialize Data:
+
+// An array a stores integers to be counted.
+// An integer array freq[11] is initialized to zero, where each index represents a number from 0 to 10.
+// Count Frequencies:
+
+// Loop through the array a:
+// Increment freq[a[i]] for each integer in a.
+// Print Results:
+
+// Loop through freq from index 1 to 10.
+// If a frequency is non-zero, print the integer and its count.
 public class IntFreq 
 {
     public static void main(String[] args) 
