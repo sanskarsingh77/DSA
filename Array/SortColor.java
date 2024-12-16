@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class optimal {
 
     public static void swap(int[] arr, int i1, int i2) {
