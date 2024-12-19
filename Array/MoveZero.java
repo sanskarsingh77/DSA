@@ -43,6 +43,9 @@ public class brute
         return a;
     }
 }
+
+
+
 // optimal approach
 package Array.MoveZero;
 
