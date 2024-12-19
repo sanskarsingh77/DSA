@@ -1,6 +1,5 @@
 // brute force 
 package Array.MoveZero;
-
 import java.util.ArrayList;
 
 public class brute 
