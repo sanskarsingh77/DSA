@@ -1,5 +1,6 @@
 public class Bubble {
     public static void main(String[] args) {
+        
         // Array to be sorted
         int a[] = {10, 70, 30, 40, 20, 1};
 
