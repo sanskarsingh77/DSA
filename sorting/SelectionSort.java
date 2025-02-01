@@ -2,6 +2,7 @@ public class Selection
 {
     public static void main(String[] args) 
     {
+        
         int a[]={70,30,40,20,25,1};
         int i,j,min_index=0;
         for(i=0;i<a.length-1;i++)
