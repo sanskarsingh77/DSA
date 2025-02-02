@@ -2,6 +2,7 @@
 // The program prompts the user to input an integer x, which represents the position of the Fibonacci number to find (e.g., 5th Fibonacci number).
 // x is taken as input using Scanner.
 
+
 // Fibonacci Calculation:
 // An object obj of the NthFibonacci class is created.
 // The method fib(x) is called on this object to compute the Fibonacci number at the xth position.
