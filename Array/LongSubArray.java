@@ -1,5 +1,4 @@
 // better approach
-
 public class better 
 {
     public static int getLongestSubarray(int []a, long k) 
