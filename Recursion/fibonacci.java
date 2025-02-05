@@ -14,7 +14,8 @@
 // Return fib(n-1) + fib(n-2) for all other cases.
 
 import java.util.Scanner;
-public class Fibonacci 
+public class Fibonacci
+    
 {
     public static void main(String[]args)
     {
