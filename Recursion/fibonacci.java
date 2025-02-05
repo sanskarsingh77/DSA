@@ -1,9 +1,7 @@
 // Input:
 // The user enters the number of terms 'x' they want in the Fibonacci series.
-
 // Output:
 // The Fibonacci series up to 'x' terms is printed.
-
 // Loop:
 // Iterates from 1 to x, calling fib(i) for each term and printing it.
 
