@@ -43,7 +43,6 @@ public class brute
 }
 
 
-
 // optimal approach
 package Array.MoveZero;
 
