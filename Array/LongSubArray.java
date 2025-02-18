@@ -1,4 +1,5 @@
 // better approach
+
 public class better
     {
         
