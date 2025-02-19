@@ -3,7 +3,8 @@
 public class better
     {
         
-    public static int getLongestSubarray(int []a, long k) 
+    public static i
+        nt getLongestSubarray(int []a, long k) 
     {
         int n = a.length;
 
