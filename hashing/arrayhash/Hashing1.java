@@ -2,6 +2,7 @@
 import java.util.*;
 public class Main{
     public static boolean nearestDuplicate(int [] nums ,int k){
+        
         Map<Integer,Integer> numsIndices = new HashMap<>();
         for(int i=0;i<nums.length;i++){
             // it checks 
