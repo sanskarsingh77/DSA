@@ -5,6 +5,7 @@ public class CharFreq2
     {
         String s="aazzddF1@@22";  //Asssuming any character
         int freq[]=new int[256];
+        
         int i;
         for(i=0;i<s.length();i++)
         {
