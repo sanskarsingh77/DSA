@@ -11,6 +11,7 @@ public class Merge
     {
         if (low >= high) 
             return;
+        
         int mid = (low + high) / 2 ;
         mergeSort(a, low, mid);  // left half
         mergeSort(a, mid + 1, high); // right half
