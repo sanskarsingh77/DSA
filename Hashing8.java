@@ -4,6 +4,7 @@
 // import java.util.Map;
 
 // public class Main {
+
 //     public static int[] countShortestAndLargestSubarrays(int[] nums, int k) {
 //         Map<Integer, Integer> firstOccurrence = new HashMap<>();
 //         Map<Integer, Integer> lastOccurrence = new HashMap<>();
