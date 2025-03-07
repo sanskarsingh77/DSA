@@ -8,7 +8,7 @@
 // The corresponding index in freq is incremented.
 // Printing Results:
 
-// Another loop checks all elements in the freq array.
+//Another loop checks all elements in the freq array.
 // If a frequency is non-zero, the corresponding letter and its count are printed
 public class CharFreq1
 {
