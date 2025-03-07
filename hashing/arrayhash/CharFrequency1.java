@@ -1,5 +1,4 @@
 // Initialization:
-
 // A string s containing lowercase letters is defined.
 // An integer array freq[26] is initialized to store letter frequencies (one index per letter from 'a' to 'z').
 // Counting Frequencies:
