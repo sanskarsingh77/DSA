@@ -7,6 +7,7 @@ public class optimal {
         arr[i2] = temp;
     }
 
+ 
     public static int[] dutchNatFlag(int[] arr) {
         int low = 0;
         int mid = 0;
